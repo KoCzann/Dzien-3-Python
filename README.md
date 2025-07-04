@@ -13,7 +13,7 @@ Nauczyłam się podejmować decyzje w programie oraz jak powtarzać działania z
 
 - `conditions.py` – sprawdzanie pełnoletności na podstawie wieku
 - `loops.py` – pętla `for` i `while`, pokazujące iteracje
-- `loop_exercise.py` – ćwiczenia z pętlami: sprawdzanie parzystości i hasło
+- `loop1.py` i `loop2.py` – ćwiczenia z pętlami: sprawdzanie parzystości i hasło
 
 ## ✨ Bonusy
 
